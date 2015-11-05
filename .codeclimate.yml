@@ -17,3 +17,4 @@ ratings:
   - "**.inc"
 exclude_paths:
 - config/**/*
+#add comment to test PR integration
